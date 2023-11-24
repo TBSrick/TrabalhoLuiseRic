@@ -1,0 +1,18 @@
+*{
+    margin-left: 20px;
+    margin-right: 20px;
+    font-family: 'Segoe UI';
+    background-color: rgb(255, 245, 232);
+}
+
+button{
+    font-weight: bold;
+    height: 50px;
+    
+}
+
+input{
+    height: 30px;
+    border-radius: 10px;
+    border-color: #282828;
+}
